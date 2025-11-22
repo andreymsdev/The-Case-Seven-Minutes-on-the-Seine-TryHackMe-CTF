@@ -67,3 +67,10 @@ The importance of the *“Seven Minutes on the Seine”* CTF lies in how it teac
 
 What struck me most is the sheer impact of something as simple as a password.  
 A single weak credential can compromise an entire network, disable surveillance, and open the door to a full-scale breach.  
+
+---
+
+## Links
+
+* [TryHackMeCTF](https://tryhackme.com/room/thecasesevenminutesontheseine)
+* [Medium](https://medium.com/@andreymsdev/the-case-seven-minutes-on-the-seine-tryhackme-ctf-79e7d5494143)
